@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yawomkobara
 - 👀 I’m interested in machine learning, statistics, and risks estimation.
 - 🌱 My works are mainly done in R, python and C#.
-- 💞️ I’m looking to collaborate on on healthcare system optimization, management
+- 💞️ I’m looking to collaborate on healthcare system optimization and financial engineering.
 - 📫 How to reach me: email me at yawo.m.kobara@aims-senegal.org/ ykobara.research@gmail.com
 
 <!---
